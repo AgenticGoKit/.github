@@ -73,7 +73,7 @@ We welcome contributions and ideas from the community:
 
 ## Links
 
-- Website: [https://agenticgokit.com](https://agenticgokit.com) *(if available)*  
+- Website: [https://agenticgokit.com](https://agenticgokit.com)
 - Core Repository: [AgenticGoKit/AgenticGoKit](https://github.com/AgenticGoKit/AgenticGoKit)  
 - License: [Apache 2.0](https://github.com/AgenticGoKit/AgenticGoKit/blob/main/LICENSE)
 
