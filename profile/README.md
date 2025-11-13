@@ -23,7 +23,7 @@ This organization hosts the complete **Agentic AI toolkit** — a growing collec
 | *(Coming Soon)* [agk](https://github.com/AgenticGoKit/agk) | Command-line toolkit for building, scaffolding, and managing AI agents and workflows using AgenticGoKit. |
 | *(Coming Soon)* agentic-ai | Opinionated runtime for deploying and scaling agentic applications. |
 | *(Coming Soon)* agentic-tools | Shared connectors, APIs, and tool integrations (MCP, REST, gRPC). |
-| *(Coming Soon)* agentic-examples | Example agent workflows, demos, and production-ready templates. |
+| [agentic-examples](https://github.com/AgenticGoKit/agentic-examples) | Example agent workflows, demos, and production-ready templates. |
 
 New repositories will be added as the ecosystem expands.
 
