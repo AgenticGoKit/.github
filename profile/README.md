@@ -30,7 +30,7 @@ We believe AI orchestration should be fast, reliable, and type-safe — with pro
 |----------|--------------|
 | [AgenticGoKit](https://github.com/AgenticGoKit/AgenticGoKit) | Core framework for building multi-agent systems in Go. |
 | [agk](https://github.com/AgenticGoKit/agk) | Command-line toolkit for building, scaffolding, and tracing AI agents and workflows. |
-| [agk-templates](https://github.com/AgenticGoKit/agk-templates) | Official template registry for agent workflows, integrations, and production patterns. |
+| [agk-templates](https://github.com/agk-templates) | Official template registry for agent workflows, integrations, and production patterns. |
 | [agentic-examples](https://github.com/AgenticGoKit/agentic-examples) | Example agent workflows, demos, and production-ready templates. |
 | *(Coming Soon)* agk-studio | Low-code/no-code platform for developing agentic workflows. |
 
